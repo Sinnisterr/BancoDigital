@@ -46,8 +46,6 @@ banco-digital/
 │   └── test/           # Testes unitários
 └── pom.xml             # Configuração do Maven
 
-Copiar
-
 ## 🏁 Como Executar
 
 ### Pré-requisitos
@@ -59,28 +57,18 @@ Copiar
 1. Clone o repositório:
    git clone https://github.com/seu-usuario/banco-digital.git
 
-Copiar
-
 2. Navegue até o diretório do projeto:
    cd banco-digital
-
-Copiar
 
 3. Compile o projeto:
    mvn clean compile
 
-Copiar
-
 4. Execute a aplicação:
    mvn exec:java -Dexec.mainClass="com.bancodigital.Main"
-
-Copiar
 
 ## 🧪 Executando os Testes
 
 mvn test
-
-Copiar
 
 ## 📝 Conceitos Aplicados
 
@@ -107,7 +95,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-- **Seu Nome** - [seu-usuario-github](https://github.com/seu-usuario-github)
+- **Willian Bruno** - [https://github.com/Sinnisterr](https://github.com/Sinnisterr)
 
 ---
 
